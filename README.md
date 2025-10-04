@@ -35,11 +35,11 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=11140f&text_color=e1e4dd&icon_color=7dd398&title_color=a5cedf" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noemtdotdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=11140f&text_color=e1e4dd&icon_color=7dd398&title_color=a5cedf" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=11140f&text_color=e1e4dd&icon_color=7dd398&title_color=a5cedf" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemtdotdev&layout=compact&theme=dark&bg_color=11140f&text_color=e1e4dd&icon_color=7dd398&title_color=a5cedf" alt="Top Languages" />
 </a>
 
 </div>
